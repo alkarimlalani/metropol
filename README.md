@@ -28,10 +28,10 @@ client = Metropol::Client.new(public_key: 'YOUR_PUBLIC_KEY',
 Or, configure the module directly
 ```ruby
 Metropol.configure do |config|
-	config.public_key = 'YOUR_PUBLIC_KEY'
-	config.private_key = 'YOUR_PRIVATE_KEY'
-	config.port = 'YOUR_PORT'  		# Defaults to 5555
-    config.api_version = 'API_VERSION'     	# Defaults to 'v2_1'
+  config.public_key = 'YOUR_PUBLIC_KEY'
+  config.private_key = 'YOUR_PRIVATE_KEY'
+  config.port = 'YOUR_PORT'             # Defaults to 5555
+  config.api_version = 'API_VERSION'    # Defaults to 'v2_1'
 end
 ```
 ### Making requests
