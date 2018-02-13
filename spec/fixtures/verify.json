@@ -1,0 +1,14 @@
+{
+    "api_code": null,
+    "api_code_description": null,
+    "dob": "1978-01-01",
+    "dod": null,
+    "first_name": "Peter",
+    "gender": "M",
+    "has_error": false,
+    "identity_number": "880000088",
+    "identity_type": "001",
+    "last_name": "Marangi",
+    "other_name": null,
+    "trx_id": "331cb2e7-46ce-45b3-903b-ac2d1112e2ad"
+}

@@ -1,0 +1,44 @@
+{
+    "api_code": null,
+    "api_code_description": null,
+    "date_of_being": [
+        "1956-08-19"
+    ],
+    "email": [
+        "johnthe.walker@gmmail.com"
+    ],
+    "employment": [
+        {
+            "employer_name": "Testing Metropol",
+            "employment_date": null
+        }
+    ],
+    "gender": [
+        "M"
+    ],
+    "has_error": false,
+    "identity_number": "880000088",
+    "identity_type": "001",
+    "names": [
+        "Walker John",
+        "John The Walker"
+    ],
+    "phone": [
+        "0722222222"
+    ],
+    "physical_address": [
+        {
+            "address": "Nakuru",
+            "country": "Kenya",
+            "town": "Nakuru"
+        }
+    ],
+    "postal_address": [
+        {
+            "code": "00200",
+            "country": "Kenya",
+            "number": "2222",
+            "town": "Nakuru"
+        }
+    ]
+}
